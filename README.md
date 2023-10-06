@@ -1,2 +1,2 @@
-# payme
-Payment application and gateway
+# PayMe
+PayMe is a application that is used to send and receive money securely by UPI, Debit / Credit card or Bank Transfer. This app can also be used to manage expenses, pay bills, invest in various assets, buy insurances, and much more. This works as both, a mobile application for both Android and iOS and as a Web Application. PayMe also works as a payment gateway for various third party services for secure payments.
